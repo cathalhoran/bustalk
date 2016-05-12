@@ -1,0 +1,22 @@
+{
+  "githubId": "busbot",
+  "user": {
+    "botname": "busbot",
+    "appHost": "http://localhost:7000",
+    "apiServer": "freecodecamp.com",
+    "appRedirectUrl": "http://localhost:7891/login/callback"
+  },
+  "rooms": [
+    {
+      "title": "bothelp",
+      "name": "cathalhoran/46a_to_phoenix_park",
+      "icon": "question",
+      "topics": [
+        "chitchat",
+        "bots",
+        "bot-development",
+        "camperbot"
+      ]
+    }
+  ]
+}
